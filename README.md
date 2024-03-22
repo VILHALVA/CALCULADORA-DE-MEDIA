@@ -18,29 +18,7 @@ A "Calculadora de Média" é uma aplicação que permite calcular a média de um
 4. Limpar Campos:
    - Se desejar recomeçar o processo, o usuário pode clicar no botão "LIMPAR" para limpar as notas e recomeçar o cálculo.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/CALCULADORA-DE-MEDIA.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd CALCULADORA-DE-MEDIA
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CALCULADORA-DE-MEDIA.zip
-```
-
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. Adicionar Notas:
    - Insira os valores das notas nos campos "NOTA 1", "NOTA 2" e assim por diante, conforme necessário.
 
@@ -55,9 +33,9 @@ unzip CALCULADORA-DE-MEDIA.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
